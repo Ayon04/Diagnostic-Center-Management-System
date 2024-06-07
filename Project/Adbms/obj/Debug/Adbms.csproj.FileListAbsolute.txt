@@ -1,0 +1,115 @@
+C:\Users\Ayon Ghosh\source\repos\Adbms\Adbms\bin\Debug\Adbms.exe.config
+C:\Users\Ayon Ghosh\source\repos\Adbms\Adbms\bin\Debug\Adbms.exe
+C:\Users\Ayon Ghosh\source\repos\Adbms\Adbms\bin\Debug\Adbms.pdb
+C:\Users\Ayon Ghosh\source\repos\Adbms\Adbms\obj\Debug\Adbms.csproj.AssemblyReference.cache
+C:\Users\Ayon Ghosh\source\repos\Adbms\Adbms\obj\Debug\Adbms.DataBase.resources
+C:\Users\Ayon Ghosh\source\repos\Adbms\Adbms\obj\Debug\Adbms.LoginPage.resources
+C:\Users\Ayon Ghosh\source\repos\Adbms\Adbms\obj\Debug\Adbms.Properties.Resources.resources
+C:\Users\Ayon Ghosh\source\repos\Adbms\Adbms\obj\Debug\Adbms.Reg.resources
+C:\Users\Ayon Ghosh\source\repos\Adbms\Adbms\obj\Debug\Adbms.csproj.GenerateResource.cache
+C:\Users\Ayon Ghosh\source\repos\Adbms\Adbms\obj\Debug\Adbms.csproj.CoreCompileInputs.cache
+C:\Users\Ayon Ghosh\source\repos\Adbms\Adbms\obj\Debug\Adbms.exe
+C:\Users\Ayon Ghosh\source\repos\Adbms\Adbms\obj\Debug\Adbms.pdb
+F:\DTAA\Adbms\Adbms\bin\Debug\Adbms.exe.config
+F:\DTAA\Adbms\Adbms\bin\Debug\Adbms.exe
+F:\DTAA\Adbms\Adbms\bin\Debug\Adbms.pdb
+F:\DTAA\Adbms\Adbms\obj\Debug\Adbms.csproj.AssemblyReference.cache
+F:\DTAA\Adbms\Adbms\obj\Debug\Adbms.csproj.SuggestedBindingRedirects.cache
+F:\DTAA\Adbms\Adbms\obj\Debug\Adbms.DataBase.resources
+F:\DTAA\Adbms\Adbms\obj\Debug\Adbms.LoginPage.resources
+F:\DTAA\Adbms\Adbms\obj\Debug\Adbms.Properties.Resources.resources
+F:\DTAA\Adbms\Adbms\obj\Debug\Adbms.Reg.resources
+F:\DTAA\Adbms\Adbms\obj\Debug\Adbms.csproj.GenerateResource.cache
+F:\DTAA\Adbms\Adbms\obj\Debug\Adbms.csproj.CoreCompileInputs.cache
+F:\DTAA\Adbms\Adbms\obj\Debug\Adbms.exe
+F:\DTAA\Adbms\Adbms\obj\Debug\Adbms.pdb
+F:\DTAA\Adbms\Adbms\bin\Debug\Oracle.ManagedDataAccess.dll
+F:\DTAA\Adbms\Adbms\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\DTAA\Adbms\Adbms\bin\Debug\System.Memory.dll
+F:\DTAA\Adbms\Adbms\bin\Debug\System.Numerics.Vectors.dll
+F:\DTAA\Adbms\Adbms\bin\Debug\System.Buffers.dll
+F:\DTAA\Adbms\Adbms\obj\Debug\Adbms.csproj.CopyComplete
+C:\Users\Ayon Ghosh\Downloads\Adbms (2)\Adbms\Adbms\bin\Debug\Adbms.exe.config
+C:\Users\Ayon Ghosh\Downloads\Adbms (2)\Adbms\Adbms\bin\Debug\Adbms.exe
+C:\Users\Ayon Ghosh\Downloads\Adbms (2)\Adbms\Adbms\bin\Debug\Adbms.pdb
+C:\Users\Ayon Ghosh\Downloads\Adbms (2)\Adbms\Adbms\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Ayon Ghosh\Downloads\Adbms (2)\Adbms\Adbms\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Ayon Ghosh\Downloads\Adbms (2)\Adbms\Adbms\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ayon Ghosh\Downloads\Adbms (2)\Adbms\Adbms\bin\Debug\System.Text.Json.dll
+C:\Users\Ayon Ghosh\Downloads\Adbms (2)\Adbms\Adbms\bin\Debug\System.Memory.dll
+C:\Users\Ayon Ghosh\Downloads\Adbms (2)\Adbms\Adbms\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ayon Ghosh\Downloads\Adbms (2)\Adbms\Adbms\bin\Debug\System.ValueTuple.dll
+C:\Users\Ayon Ghosh\Downloads\Adbms (2)\Adbms\Adbms\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Ayon Ghosh\Downloads\Adbms (2)\Adbms\Adbms\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ayon Ghosh\Downloads\Adbms (2)\Adbms\Adbms\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ayon Ghosh\Downloads\Adbms (2)\Adbms\Adbms\bin\Debug\System.Buffers.dll
+C:\Users\Ayon Ghosh\Downloads\Adbms (2)\Adbms\Adbms\obj\Debug\Adbms.csproj.AssemblyReference.cache
+C:\Users\Ayon Ghosh\Downloads\Adbms (2)\Adbms\Adbms\obj\Debug\Adbms.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ayon Ghosh\Downloads\Adbms (2)\Adbms\Adbms\obj\Debug\Adbms.exe.config
+C:\Users\Ayon Ghosh\Downloads\Adbms (2)\Adbms\Adbms\obj\Debug\Adbms.LoginPage.resources
+C:\Users\Ayon Ghosh\Downloads\Adbms (2)\Adbms\Adbms\obj\Debug\Adbms.Properties.Resources.resources
+C:\Users\Ayon Ghosh\Downloads\Adbms (2)\Adbms\Adbms\obj\Debug\Adbms.Reg.resources
+C:\Users\Ayon Ghosh\Downloads\Adbms (2)\Adbms\Adbms\obj\Debug\Adbms.csproj.GenerateResource.cache
+C:\Users\Ayon Ghosh\Downloads\Adbms (2)\Adbms\Adbms\obj\Debug\Adbms.csproj.CoreCompileInputs.cache
+C:\Users\Ayon Ghosh\Downloads\Adbms (2)\Adbms\Adbms\obj\Debug\Adbms.csproj.CopyComplete
+C:\Users\Ayon Ghosh\Downloads\Adbms (2)\Adbms\Adbms\obj\Debug\Adbms.exe
+C:\Users\Ayon Ghosh\Downloads\Adbms (2)\Adbms\Adbms\obj\Debug\Adbms.pdb
+C:\Users\Ayon Ghosh\Downloads\Adbms (2)\Adbms\Adbms\obj\Debug\Adbms.PatientInfo.resources
+C:\Users\Ayon Ghosh\Downloads\Adbms (2)\Adbms\Adbms\obj\Debug\Adbms.AdminInterFace.resources
+C:\Users\Ayon Ghosh\Downloads\Adbms (2)\Adbms\Adbms\obj\Debug\Adbms.PatientsRecord.resources
+C:\Users\USER\Downloads\Adbms (2)_Final\Adbms\Adbms\bin\Debug\Adbms.exe.config
+C:\Users\USER\Downloads\Adbms (2)_Final\Adbms\Adbms\bin\Debug\Adbms.exe
+C:\Users\USER\Downloads\Adbms (2)_Final\Adbms\Adbms\bin\Debug\Adbms.pdb
+C:\Users\USER\Downloads\Adbms (2)_Final\Adbms\Adbms\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\USER\Downloads\Adbms (2)_Final\Adbms\Adbms\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\USER\Downloads\Adbms (2)_Final\Adbms\Adbms\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USER\Downloads\Adbms (2)_Final\Adbms\Adbms\bin\Debug\System.Text.Json.dll
+C:\Users\USER\Downloads\Adbms (2)_Final\Adbms\Adbms\bin\Debug\System.Memory.dll
+C:\Users\USER\Downloads\Adbms (2)_Final\Adbms\Adbms\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USER\Downloads\Adbms (2)_Final\Adbms\Adbms\bin\Debug\System.ValueTuple.dll
+C:\Users\USER\Downloads\Adbms (2)_Final\Adbms\Adbms\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\USER\Downloads\Adbms (2)_Final\Adbms\Adbms\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\USER\Downloads\Adbms (2)_Final\Adbms\Adbms\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USER\Downloads\Adbms (2)_Final\Adbms\Adbms\bin\Debug\System.Buffers.dll
+C:\Users\USER\Downloads\Adbms (2)_Final\Adbms\Adbms\obj\Debug\Adbms.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\Adbms (2)_Final\Adbms\Adbms\obj\Debug\Adbms.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Downloads\Adbms (2)_Final\Adbms\Adbms\obj\Debug\Adbms.exe.config
+C:\Users\USER\Downloads\Adbms (2)_Final\Adbms\Adbms\obj\Debug\Adbms.AdminInterFace.resources
+C:\Users\USER\Downloads\Adbms (2)_Final\Adbms\Adbms\obj\Debug\Adbms.LoginPage.resources
+C:\Users\USER\Downloads\Adbms (2)_Final\Adbms\Adbms\obj\Debug\Adbms.PatientInfo.resources
+C:\Users\USER\Downloads\Adbms (2)_Final\Adbms\Adbms\obj\Debug\Adbms.PatientsRecord.resources
+C:\Users\USER\Downloads\Adbms (2)_Final\Adbms\Adbms\obj\Debug\Adbms.Properties.Resources.resources
+C:\Users\USER\Downloads\Adbms (2)_Final\Adbms\Adbms\obj\Debug\Adbms.Reg.resources
+C:\Users\USER\Downloads\Adbms (2)_Final\Adbms\Adbms\obj\Debug\Adbms.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\Adbms (2)_Final\Adbms\Adbms\obj\Debug\Adbms.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\Adbms (2)_Final\Adbms\Adbms\obj\Debug\Adbms.csproj.CopyComplete
+C:\Users\USER\Downloads\Adbms (2)_Final\Adbms\Adbms\obj\Debug\Adbms.exe
+C:\Users\USER\Downloads\Adbms (2)_Final\Adbms\Adbms\obj\Debug\Adbms.pdb
+C:\Users\Ayon Ghosh\Desktop\DCMS (2)\DCMS\Adbms\obj\Debug\Adbms.csproj.AssemblyReference.cache
+C:\Users\Ayon Ghosh\Desktop\DCMS (2)\DCMS\Adbms\obj\Debug\Adbms.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ayon Ghosh\Desktop\DCMS (2)\DCMS\Adbms\obj\Debug\Adbms.exe.config
+C:\Users\Ayon Ghosh\Desktop\DCMS (2)\DCMS\Adbms\obj\Debug\Adbms.exe
+C:\Users\Ayon Ghosh\Desktop\DCMS (2)\DCMS\Adbms\obj\Debug\Adbms.pdb
+C:\Users\Ayon Ghosh\Desktop\DCMS (2)\DCMS\Adbms\bin\Debug\Adbms.exe.config
+C:\Users\Ayon Ghosh\Desktop\DCMS (2)\DCMS\Adbms\bin\Debug\Adbms.exe
+C:\Users\Ayon Ghosh\Desktop\DCMS (2)\DCMS\Adbms\bin\Debug\Adbms.pdb
+C:\Users\Ayon Ghosh\Desktop\DCMS (2)\DCMS\Adbms\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Ayon Ghosh\Desktop\DCMS (2)\DCMS\Adbms\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Ayon Ghosh\Desktop\DCMS (2)\DCMS\Adbms\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ayon Ghosh\Desktop\DCMS (2)\DCMS\Adbms\bin\Debug\System.Text.Json.dll
+C:\Users\Ayon Ghosh\Desktop\DCMS (2)\DCMS\Adbms\bin\Debug\System.Memory.dll
+C:\Users\Ayon Ghosh\Desktop\DCMS (2)\DCMS\Adbms\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ayon Ghosh\Desktop\DCMS (2)\DCMS\Adbms\bin\Debug\System.ValueTuple.dll
+C:\Users\Ayon Ghosh\Desktop\DCMS (2)\DCMS\Adbms\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Ayon Ghosh\Desktop\DCMS (2)\DCMS\Adbms\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ayon Ghosh\Desktop\DCMS (2)\DCMS\Adbms\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ayon Ghosh\Desktop\DCMS (2)\DCMS\Adbms\bin\Debug\System.Buffers.dll
+C:\Users\Ayon Ghosh\Desktop\DCMS (2)\DCMS\Adbms\obj\Debug\Adbms.AdminInterFace.resources
+C:\Users\Ayon Ghosh\Desktop\DCMS (2)\DCMS\Adbms\obj\Debug\Adbms.LoginPage.resources
+C:\Users\Ayon Ghosh\Desktop\DCMS (2)\DCMS\Adbms\obj\Debug\Adbms.PatientInfo.resources
+C:\Users\Ayon Ghosh\Desktop\DCMS (2)\DCMS\Adbms\obj\Debug\Adbms.PatientsRecord.resources
+C:\Users\Ayon Ghosh\Desktop\DCMS (2)\DCMS\Adbms\obj\Debug\Adbms.Properties.Resources.resources
+C:\Users\Ayon Ghosh\Desktop\DCMS (2)\DCMS\Adbms\obj\Debug\Adbms.Reg.resources
+C:\Users\Ayon Ghosh\Desktop\DCMS (2)\DCMS\Adbms\obj\Debug\Adbms.csproj.GenerateResource.cache
+C:\Users\Ayon Ghosh\Desktop\DCMS (2)\DCMS\Adbms\obj\Debug\Adbms.csproj.CoreCompileInputs.cache
+C:\Users\Ayon Ghosh\Desktop\DCMS (2)\DCMS\Adbms\obj\Debug\Adbms.csproj.CopyComplete
